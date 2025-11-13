@@ -112,6 +112,9 @@ body.dark .projects .project {
 .project-links a:hover {
   text-decoration: underline;
 }
+.certificate a {
+  color:#2b6cb0 ;
+}
 
 /* Footer */
 footer {
@@ -140,4 +143,5 @@ footer {
     text-align: center;
   }
 }
+
 
